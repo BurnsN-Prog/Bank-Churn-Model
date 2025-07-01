@@ -17,7 +17,7 @@ Analyze customer banking data and past behavior to predict which customers are l
 
 ### Results  
 - **Class Imbalance Addressed:** Used upsampling to balance positive (churn) class  
-- **Best Model:** Random Forest  
+- **Model:** Random Forest (n=70, depth=17) 
   - F1 Score (Test): **0.616**  
   - AUC-ROC Score: **0.860**  
 - **Model met and exceeded** the project’s target F1-score of 0.59  
