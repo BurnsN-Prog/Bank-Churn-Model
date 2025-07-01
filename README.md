@@ -3,7 +3,7 @@
 ## Bank Customer Churn Prediction
 
 ### Project Aim  
-Analyze customer banking data and past behavior to predict which customers are likely to churn, using classification models and handling class imbalance.
+Analyze customer banking data and past behavior to predict which customers are likely to churn, using a classification model and handling class imbalance.
 
 ---
 
