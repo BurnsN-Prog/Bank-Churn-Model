@@ -1,5 +1,3 @@
-# Bank-Churn-Model
-
 ## Bank Customer Churn Prediction
 
 ### Project Aim  
